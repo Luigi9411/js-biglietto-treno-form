@@ -43,3 +43,14 @@ button, input, optgroup, select, textarea {
 .text-button{
     color: #B91450;
 } 
+
+.list-none{
+    list-style-type: none;
+    gap: 3em;
+}
+
+
+
+.color-gray{
+    background-color: gray;
+}
