@@ -1,0 +1,45 @@
+
+/* .show {
+	display: block;
+}
+.ticket {
+	display: none;
+} */
+
+.hidden {
+	display: none;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #B91450;
+}
+
+h1{
+    color: white;
+}
+
+.color-back{
+    background-color: white;
+    margin: 2em 0;
+    padding: 1em 0;
+}
+
+.select{
+    line-height: normal;
+}
+
+button, input, optgroup, select, textarea {
+    line-height: revert;
+    border-radius: 5px;
+    border: 1px solid  #B91450;
+}
+
+.text-button{
+    color: #B91450;
+} 
