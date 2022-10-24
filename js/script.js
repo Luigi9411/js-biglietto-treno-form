@@ -48,7 +48,7 @@ btnGenerate.addEventListener('click', function () {
 	}
 })
 
-btnReset.addEventListener('mouseenter', function () {
+btnReset.addEventListener('click', function () {
 	outputName.innerHTML = '';
 	outputPrice.innerHTML = '';
 	eleTicket.classList.add('hidden');
